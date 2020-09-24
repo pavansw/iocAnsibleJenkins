@@ -1,5 +1,5 @@
 ---
- - hosts: servers
+ - hosts: machine1.unnati.com
    become: true
    tasks:
     - name: install httpd
