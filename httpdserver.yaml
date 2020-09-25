@@ -12,5 +12,5 @@
        state: restarted
     - name: index page
       copy: 
-       content: "Hello all"
+       content: "Hello all FROM PAVAN"
        dest: "/var/www/html/index.html"
